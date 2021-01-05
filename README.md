@@ -1,12 +1,12 @@
 # Moving Guy » The Trashy Move Around Game
 
-Download the latest version of MovingGuy for Windows, macOS and Linux » [Downloads](https://github.com/StupidRepo/MovingGuyDownload/releases/tag/v0.0.2-beta)
+Download the latest version of MovingGuy for Windows, macOS and Linux » [Latest Version](https://github.com/StupidRepo/MovingGuyDownload/releases/tag/v0.0.2-beta)
 
 
 
 # Changelogs
 
-Find the changelogs here » [Changelogs](https://github.com/StupidRepo/MovingGuyDownload/releases)
+Find the changelogs of every version here » [Changelogs](https://github.com/StupidRepo/MovingGuyDownload/releases)
  
  # Note
  
