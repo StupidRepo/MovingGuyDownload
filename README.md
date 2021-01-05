@@ -2,6 +2,7 @@
 
 Download the latest version of MovingGuy for Windows, macOS and Linux » [Latest Version](https://github.com/StupidRepo/MovingGuyDownload/releases/tag/v0.0.4-beta)
 
+Want a specific version? Check all the versions here » [All Versions](https://github.com/StupidRepo/MovingGuyDownload/releases/)
 
 
 # Changelogs
