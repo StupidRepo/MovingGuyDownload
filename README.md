@@ -12,3 +12,8 @@ Download for macOS » [Download](https://github.com/StupidRepo/MovingGuyDownload
 
 Version 0.0.2b
  - Made it so you can SHIFT + TAB and DPAD RIGHT to quit the game. I can't test DPAD RIGHT since I don't have a XBOX but yeah.
+ 
+ # Note
+ 
+ I just wanna say thanks for checking out my game but I have not tested to see if the DPAD RIGHT to quit works, I don't have an XBOX or any controllers.
+ I can't test if it works on Windows or Linux but I can confirm it works on macOS Big Sur.
